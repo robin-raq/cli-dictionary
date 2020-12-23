@@ -1,1 +1,1 @@
-# cli-dictionary
+# CLI-Dictionary
